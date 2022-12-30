@@ -9,7 +9,7 @@ public class Department implements Serializable{
 	private Integer id;
 	private String name;
 	
-	public void Departament() {
+	public Department() {
 		
 	}
 
